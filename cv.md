@@ -3,8 +3,10 @@
 ## Olga Bogdanova  
 
 #####Contacts  
-Address: The Republic of Belarus, Minsk;
-Number: +375291714557;
+Address: The Republic of Belarus, Minsk; 
+
+Number: +375291714557;  
+
 E-mail: TomieForever@gmail.com;
 
 My name is Olga. I'm 31.⠀
