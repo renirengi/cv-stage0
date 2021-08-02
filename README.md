@@ -1,2 +1,2 @@
 # rsschool-cv
-https://github.com/ReniRengi/rsschool-cv/tree/rsschool-cv-html/index.html
+https://github.com/ReniRengi/rsschool-cv/museum
