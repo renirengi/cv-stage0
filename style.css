@@ -749,10 +749,8 @@ font-family:var(--Roboto);
   transform: scale(1.2);
 }
 
-
 .container-ticket input {
   display: none;
-
 }
 
 .container-ticket {
